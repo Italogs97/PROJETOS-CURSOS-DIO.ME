@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projeto.1</title>
+  </head>
+  <body>
+    <h1 id="inicio">HTML</h1>
+    <hr />
+    <h2>Índice</h2>
+    <ul>
+      <li><a href="#Introdução">Introdução</a></li>
+      <li><a href="#Principais tags do HTML">Principais tags do HTML</a></li>
+      <li><a href="#Videos para estudo">Videos para estudo</a></li>
+    </ul>
+    <hr />
+    <h2 id="Introdução">Introdução</h2>
+    <small
+      ><u><a href="#inicio">Voltar</a></u></small
+    >
+    <p>
+      HTML (Hypertext Markup Language) é uma linguagem de marcação utilizada
+      para criar e exibir conteúdo na web. A sua evolução começou em 1989,
+      quando Tim Berners-Lee, um cientista da computação britânico que
+      trabalhava no CERN (Organização Europeia para a Pesquisa Nuclear),
+      desenvolveu a ideia da World Wide Web.
+    </p>
+    <p>
+      A primeira versão do HTML,conhecida como HTML 1.0, foi lançada em 1991.
+      Essa versão incluía tags básicas para formatar o texto, como para
+      títulos,para parágrafos e para links. Também incluía imagens, embora
+      apenas em preto e branco.
+    </p>
+    <p>
+      Em 2004, o desenvolvimento do HTML foi retomado com a criação do grupo de
+      trabalho HTML da W3C. Esse grupo de trabalho trabalhou no desenvolvimento
+      do HTML5, que foi lançado em 2014. O HTML5 incluiu muitos novos recursos,
+      como elementos semânticos (como <"article"> e <"section">), suporte para
+      vídeo e áudio, geolocalização e capacidade de armazenamento local.
+    </p>
+    <p>
+      Desde então, o HTML5 se tornou a versão mais utilizada do HTML e é
+      suportado por todos os principais navegadores da web. Além disso, o HTML5
+      continua a ser atualizado com novos recursos e funcionalidades para
+      acompanhar as demandas em constante evolução da web.
+    </p>
+    <hr />
+
+    <h2 id="#Principais tags do HTML">Principais tags do HTML</h2>
+    <small
+      ><u><a href="#inicio">Voltar</a></u></small
+    >
+    <ul>
+      <li>html – Esta tag é usada para definir o início do documento HTML</li>
+      <li>
+        head – Esta tag é usada para incluir informações sobre a página, como o
+        título da página, meta tags e scripts.
+      </li>
+      <li>
+        title – Esta tag é usada para definir o título da página, que aparece na
+        barra de título do navegador.
+      </li>
+      <li>
+        body – Esta tag é usada para definir o conteúdo da página, como textos,
+        imagens, vídeos, links e outros elementos.
+      </li>
+      <li>
+        body – Esta tag é usada para definir o conteúdo da página, como textos,
+        imagens, vídeos, links e outros elementos.
+      </li>
+      <li>p – Esta tag é usada para criar parágrafos de texto</li>
+      <li>
+        h1 até h6 – Essas tags são usadas para criar títulos e subtítulos, com
+        diferentes níveis de importância
+      </li>
+      <li>
+        a – Esta tag é usada para criar links para outras páginas da web ou para
+        arquivos no próprio site
+      </li>
+      <li>img – Esta tag é usada para inserir imagens na página.</li>
+      <li>ul e li – Essas tags são usadas para criar listas com marcadores</li>
+      <li>ol - Essas tags são usadas para criar listas com ordem númerica</li>
+    </ul>
+    <h2 id="#Videos para estudo">Videos para estudo</h2>
+    <small
+      ><u><a href="#inicio">Voltar</a></u></small
+    >
+
+    <h2>
+      <a href="https://youtu.be/3oSIqIqzN3M?si=wZ-cOmN-017brqa8" target="_blank"
+        >HTML PARA INICIAR EM PROGRAMAÇÃO</a
+      >
+    </h2>
+    <p>
+      O video fala pouco da linguagem de marcação HTML, de forma bem direta e
+      prática! Pra qualquer pessoa que queira iniciar na área de TI se
+      familiarizar
+    </p>
+    <p><strong>VIDEO PRODUZIDO POR RAFAELLA BALLERINI</strong></p>
+    <h2>onde encotrá-la:</h2>
+    <ul>
+      <li>
+        Instagram: /
+        <a href="https://www.instagram.com/rafaballerini/" target="_blank"
+          >rafaballerini</a
+        >
+      </li>
+      <li>
+        Github: /
+        <a href="https://github.com/rafaballerini" target="_blank"
+          >rafaballerini</a
+        >
+      </li>
+      <li>
+        Comunidade no Discord: /
+        <a href="https://discord.com/invite/wagxzStdcR" target="_blank"
+          >Ballerini</a
+        >
+      </li>
+    </ul>
+
+    <h2>
+      <a href="https://youtu.be/0409yssD3vk?si=CewlgP8TY91ihO9z" target="_blank"
+        >O Que é HTML e Para Que Serve?</a
+      >
+    </h2>
+    <small
+      ><u><a href="#inicio">Voltar</a></u></small
+    >
+    <p>
+      O HTML foi inventado em 1990, pelo cientista chamado Tim Berners-Lee. Ele
+      tinha como objetivo inicial o compartilhamento de informações entre
+      cientistas das mais diversas universidades. Mas, o sucesso foi tão grande
+      que alcançou o mundo todo, se tornando a internet que conhecemos hoje.
+    </p>
+    <p><strong>VIDEO PRODUZIDO POR ILUSTRADEV</strong></p>
+    <h2>onde encotrá-la:</h2>
+    <ul>
+      <li>
+        Instagram: /
+        <a href="https://www.instagram.com/ilustradev/" target="_blank"
+          >ilustradev</a
+        >
+      </li>
+      <li>Github: / Não encontrado</li>
+      <li>Comunidade no Discord: / Não encontrado</li>
+    </ul>
+  </body>
+</html>
